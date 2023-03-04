@@ -38,4 +38,4 @@ Add the  @tailwind directives for each of Tailwind’s layers to your main CSS f
 @tailwind utilities;
 
 
-NB: "npm run start" this commend use for start vite local server. Just simple 😊. TNX
+NB: "npm run start" this commend use for start vite local server. Just simple 😊. TNX 
