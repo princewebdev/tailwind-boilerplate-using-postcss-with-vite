@@ -1,4 +1,5 @@
 # tailwind-boilerplate-using-postcss-with-vite
+Please Click or preview mode in Readme.md file
 
 Tailwind CSS Installation
 Lets generate a package.json file
